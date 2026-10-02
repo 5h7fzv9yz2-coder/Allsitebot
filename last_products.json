@@ -1,1 +1,65 @@
-{}
+{
+  "ChaosCards": [
+    {
+      "title": "Booster Boxes (Pokemon)",
+      "url": "https://www.chaoscards.co.uk/shop/card-games/pokemon/booster-boxes-pokemon",
+      "price": "N/A"
+    },
+    {
+      "title": "Booster Packs (Pokemon)",
+      "url": "https://www.chaoscards.co.uk/shop/card-games/pokemon/booster-packs-pokemon",
+      "price": "N/A"
+    },
+    {
+      "title": "Elite Trainer Boxes (Pokemon)",
+      "url": "https://www.chaoscards.co.uk/shop/card-games/pokemon/elite-trainer-boxes-pokemon",
+      "price": "N/A"
+    }
+  ],
+  "MagicMadhouse": [
+    {
+      "title": "Pokémon Booster Pack",
+      "url": "https://magicmadhouse.co.uk/pokemon/pokemon-sealed-product/booster-pack",
+      "price": "N/A"
+    },
+    {
+      "title": "Pokémon Booster Box",
+      "url": "https://magicmadhouse.co.uk/pokemon/pokemon-sealed-product/booster-box",
+      "price": "N/A"
+    }
+  ],
+  "TotalCards": [
+    {
+      "title": "Pre-Order Pokemon - 30th Celebration - Futuristic Collectors Box (Simplified Chinese) £239.95",
+      "url": "https://www.totalcards.net/products/pokemon-simplified-chinese-terastal-grand-gathering-booster-box-10-packs-copy",
+      "price": "£239.95"
+    },
+    {
+      "title": "Pokemon - Simplified Chinese - 30th Anniversary First Partner Set - Series 3",
+      "url": "https://www.totalcards.net/products/pokemon-simplified-chinese-30th-anniversary-first-partner-set-series-3",
+      "price": "N/A"
+    }
+  ],
+  "TrollTrader": [
+    {
+      "title": "Chinese Pokemon 30th Anniversary First Partner Illustration Series 1",
+      "url": "https://www.trolltradercards.com/products/chinese-pokemon-30th-anniversary-first-partner-illustration-series-1",
+      "price": "£22.95"
+    },
+    {
+      "title": "Chinese Pokemon 30th Anniversary First Partner Illustration Series 2",
+      "url": "https://www.trolltradercards.com/products/chinese-pokemon-30th-anniversary-first-partner-illustration-series-2",
+      "price": "£16.95"
+    },
+    {
+      "title": "Korean Pokemon Shiny Treasure ex (sv4a ) - Booster Pack",
+      "url": "https://www.trolltradercards.com/products/korean-pokemon-shiny-treasure-ex-sv4a-booster-pack",
+      "price": "£15.00"
+    },
+    {
+      "title": "Korean Pokemon Shiny Treasure ex (sv4a ) - Booster Box",
+      "url": "https://www.trolltradercards.com/products/korean-pokemon-shiny-treasure-ex-sv4a-booster-box",
+      "price": "£144.95"
+    }
+  ]
+}
